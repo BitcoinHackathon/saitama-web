@@ -1,0 +1,11 @@
+{
+  "name": "hackerthon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bitbox-cli": "^1.6.5",
+    "blockchain.info": "^2.12.1",
+    "lodash": "^4.17.11"
+  }
+}
